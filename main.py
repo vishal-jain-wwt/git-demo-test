@@ -5,3 +5,6 @@ import pandas as pd
 # just some random code
 a = np.random.randint(0, 10)
 print(a)
+
+def do_exponent(x,n):
+    return x^n
